@@ -5,7 +5,7 @@
 **Course:** Machine Learning Fundamentals (AIC354) — COMSATS University Islamabad, Lahore Campus  
 **Assignment 2 – Task 1**
 
-**Live App:** PASTE_YOUR_LIVE_LINK_HERE
+**Live App:** https://titanic-5hfeozgkpkhibzq8vracmv.streamlit.app/
 
 ## Files
 | File | Purpose |
